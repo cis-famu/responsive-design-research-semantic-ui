@@ -1,0 +1,77 @@
+.ui.menu {
+    text-emphasis: bold;
+}
+
+.ui.cards>.card {
+margin-left: 20px;
+margin-top: 10px;
+width: 350px;
+height: auto;
+}
+
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #210f38;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+ 
+  .container.gh {
+    background-color: #210f38;
+  }
+
+  .spiderman {
+    padding: 20px;
+    margin: 10px;
+    font-size: medium;
+  
+  }
+  .container.webbing {
+    background-image: url("spiderman.jpeg");
+  }
+  .container.wario {
+    background-image: url("mariobg2.jpeg");
+  }
+  .container.silenthill {
+    background-image: url("dark.jpeg");
+  }
+  .container.squad {
+    background-image: url("skull.jpeg");
+  }
+  .container.layton {
+    background-image: url("vintage.jpeg");
+  }
+  .container.peach {
+    background-image: url("pinkbg.jpeg");
+  }
+  .container.vamp {
+    background-image: url("bats.jpeg");
+  }
+  .container.persona3 {
+    background-image: url("bluebg.jpeg");
+  }
+  .container.wolf {
+    background-image: url("city.jpeg");
+  }
+  .container.lords {
+    background-image: url("beigebg.jpeg");
+  }
+  .container.lamps {
+    background-image: url("ruins.jpeg");
+  }
+  
+  .about {
+    font-size: 20px;
+  }
